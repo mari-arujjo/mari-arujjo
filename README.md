@@ -25,7 +25,7 @@
   (EM DESENVOLVIMENTO) 
   - Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “OrdemProAPI”.
 
-[![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-4B0082?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
+[![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
   - Aplicativo em Flutter que permite digitar um CEP e visualizar sua localização diretamente no mapa.
 
 [![🔗 Be A Ba](https://img.shields.io/badge/🔗-Be_A_Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
