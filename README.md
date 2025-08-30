@@ -11,14 +11,24 @@
 ---
 
 ### 🌷 Projetos pessoais
-- [API Ordem De Serviço](https://github.com/mari-arujjo/API-Ordem-De-Servico)  
-  _Descrição: escreva aqui a descrição do projeto..._
 
-- [Ordem De Serviço Piloto](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
-  _Descrição: escreva aqui a descrição do projeto..._
+<div style="background-color:#FFE4F0; padding: 15px; border-radius: 12px; margin-bottom: 10px;">
+**API Ordem De Serviço**  
+<a href="https://github.com/mari-arujjo/API-Ordem-De-Servico" style="color:#C080FF; text-decoration:none;">🔗 Ver Projeto</a>  
+_Descrição: escreva aqui a descrição do projeto..._
+</div>
 
-- [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba)  
-  _Descrição: escreva aqui a descrição do projeto..._
+<div style="background-color:#FFE4F0; padding: 15px; border-radius: 12px; margin-bottom: 10px;">
+**Ordem De Serviço Piloto**  
+<a href="https://github.com/mari-arujjo/Ordem-De-Servico-Piloto" style="color:#C080FF; text-decoration:none;">🔗 Ver Projeto</a>  
+_Descrição: escreva aqui a descrição do projeto..._
+</div>
+
+<div style="background-color:#FFE4F0; padding: 15px; border-radius: 12px; margin-bottom: 10px;">
+**Be-A-Ba**  
+<a href="https://github.com/mari-arujjo/Be-A-Ba" style="color:#C080FF; text-decoration:none;">🔗 Ver Projeto</a>  
+_Descrição: escreva aqui a descrição do projeto..._
+</div>
 
 ---
 
