@@ -2,11 +2,11 @@
 
 ### ✨ Habilidades
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
-![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=003366)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
 ![HTML](https://img.shields.io/badge/HTML-A8E6CF?style=for-the-badge&logo=html5&logoColor=4B0082)
 ![CSS](https://img.shields.io/badge/CSS-FFD3B6?style=for-the-badge&logo=css3&logoColor=4B0082)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF59D?style=for-the-badge&logo=javascript&logoColor=4B0082)
+![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=003366)
 
 ![Flutter](https://img.shields.io/badge/Flutter-7FDBFF?style=for-the-badge&logo=flutter&logoColor=003366)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-CDA0DD?style=for-the-badge&logo=dotnet&logoColor=4B0082)
