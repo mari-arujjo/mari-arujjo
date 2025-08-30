@@ -11,24 +11,14 @@
 ---
 
 ### 🌷 Projetos pessoais
+- [WEB API Ordem De Serviço](https://github.com/mari-arujjo/API-Ordem-De-Servico)  
+  _Descrição: Desenvolvimento de uma API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
 
-<div style="background-color:#FFE4F0; padding: 15px; border-radius: 12px; margin-bottom: 10px;">
-**API Ordem De Serviço**  
-<a href="https://github.com/mari-arujjo/API-Ordem-De-Servico" style="color:#C080FF; text-decoration:none;">🔗 Ver Projeto</a>  
-_Descrição: escreva aqui a descrição do projeto..._
-</div>
+- [Ordem De Serviço Piloto](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
+  _Descrição: escreva aqui a descrição do projeto..._
 
-<div style="background-color:#FFE4F0; padding: 15px; border-radius: 12px; margin-bottom: 10px;">
-**Ordem De Serviço Piloto**  
-<a href="https://github.com/mari-arujjo/Ordem-De-Servico-Piloto" style="color:#C080FF; text-decoration:none;">🔗 Ver Projeto</a>  
-_Descrição: escreva aqui a descrição do projeto..._
-</div>
-
-<div style="background-color:#FFE4F0; padding: 15px; border-radius: 12px; margin-bottom: 10px;">
-**Be-A-Ba**  
-<a href="https://github.com/mari-arujjo/Be-A-Ba" style="color:#C080FF; text-decoration:none;">🔗 Ver Projeto</a>  
-_Descrição: escreva aqui a descrição do projeto..._
-</div>
+- [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba)  
+  _Descrição: O jogo Bê A Bá foi desenvolvido com o intuito de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
 
 ---
 
