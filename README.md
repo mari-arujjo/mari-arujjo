@@ -20,10 +20,10 @@
 [![🔗 API Ordem De Serviço](https://img.shields.io/badge/🔗-API_Ordem_De_Serviço-FFB7C5?style=for-the-badge)](https://github.com/mari-arujjo/API-Ordem-De-Servico)  
 Web API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
 
-[![🔗 Ordem De Serviço Piloto](https://img.shields.io/badge/🔗-Ordem_De_Serviço_Piloto-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
+[![🔗 APP Ordem De Serviço - Piloto](https://img.shields.io/badge/🔗-Ordem_De_Serviço_Piloto-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
 Projeto para aprimorar práticas em Flutter, incluindo gerenciamento de ordens de serviço e integração com a Web API citada acima.
 
-[![🔗 Be-A-Ba](https://img.shields.io/badge/🔗-Be--A--Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
+[![🔗 Bê A Bá](https://img.shields.io/badge/🔗-Be--A--Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
 Jogo desenvolvido no **GameMaker Studio 2** utilizando **GML (GameMaker Language)**, com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
 
 
