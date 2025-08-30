@@ -17,7 +17,5 @@
 ---
 
 ### 📊 Estatísticas
-![Top Linguagens](https://img.shields.io/github/languages/top/mari-arujjo?style=for-the-badge&color=BAA0FF&logoColor=4B0082)
-![Commits](https://img.shields.io/github/commit-activity/m/mari-arujjo?style=for-the-badge&color=7FDBFF&logoColor=003366)
-![Repositórios](https://img.shields.io/github/repos/mari-arujjo?style=for-the-badge&color=FF8DAA&logoColor=4B0082)
-![Estrelas](https://img.shields.io/github/stars/mari-arujjo?style=for-the-badge&color=CDA0DD&logoColor=4B0082)
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical)
