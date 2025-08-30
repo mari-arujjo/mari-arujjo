@@ -18,7 +18,7 @@
 
 ### 📊 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&hide=css,html&langs_count=8&hide_border=true&bg_color=FDE2F3&title_color=FF69B4&text_color=9B59B6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&hide=css,html&langs_count=7&hide_border=true&bg)
 
 <!-- ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical) -->
 
