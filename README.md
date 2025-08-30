@@ -18,5 +18,5 @@
 
 ### 📊 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical)
-![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical&hide=stars,contribs)
 
