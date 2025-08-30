@@ -17,11 +17,11 @@
 
 ### 🌷 Projetos pessoais
 
-[![🔗 OrdemPro API](https://img.shields.io/badge/🔗-oOrdemPro_Api-FFB7C5?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro-API)  
+[![🔗 OrdemPro API](https://img.shields.io/badge/🔗-Ordem_Pro_Api-FFB7C5?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro-API)  
   Web API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
 
-[![🔗 OrdemPro](https://img.shields.io/badge/🔗-OrdemPro-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro)  
-  Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “API Ordem De Serviço”. Projeto pessoal em desenvolvimento.
+[![🔗 OrdemPro](https://img.shields.io/badge/🔗-Ordem_Pro-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro)  
+  Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “OrdemProAPI”. Projeto pessoal em desenvolvimento.
 
 [![🔗 Be A Ba](https://img.shields.io/badge/🔗-Be_A_Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
   O jogo Bê A Bá foi desenvolvido no **GameMaker Studio 2** utilizando **GML (GameMaker Language)**, com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
