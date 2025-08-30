@@ -13,3 +13,11 @@
 ### 💌 Fale comigo!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-99FF99?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Gmail-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
+
+---
+
+### 📊 Estatísticas
+![Top Linguagens](https://img.shields.io/github/languages/top/marianaaraujo?style=for-the-badge&color=BAA0FF&logoColor=4B0082)
+![Commits](https://img.shields.io/github/commit-activity/m/marianaaraujo?style=for-the-badge&color=7FDBFF&logoColor=003366)
+![Repositórios](https://img.shields.io/github/repos/marianaaraujo?style=for-the-badge&color=FF8DAA&logoColor=4B0082)
+![Estrelas](https://img.shields.io/github/stars/marianaaraujo?style=for-the-badge&color=CDA0DD&logoColor=4B0082)
