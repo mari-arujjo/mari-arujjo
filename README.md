@@ -11,7 +11,14 @@
 ---
 
 ### 🌷 Projetos pessoais
-blblqaaa
+- [API Ordem De Serviço](https://github.com/mari-arujjo/API-Ordem-De-Servico)  
+  _Descrição: escreva aqui a descrição do projeto..._
+
+- [Ordem De Serviço Piloto](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
+  _Descrição: escreva aqui a descrição do projeto..._
+
+- [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba)  
+  _Descrição: escreva aqui a descrição do projeto..._
 
 ---
 
