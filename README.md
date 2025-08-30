@@ -1,4 +1,4 @@
-A# Mariana Araújo Silva
+# Mariana Araújo Silva
 
 ### ✨ Habilidades
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
