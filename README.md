@@ -35,5 +35,5 @@
 ---
 
 ### 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&bg_color=00000000&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&bg_color=00000000&langs_count=8)
 
