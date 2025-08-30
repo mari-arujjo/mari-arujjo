@@ -37,10 +37,8 @@ A# Mariana Araújo Silva
 ---
 
 ### 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&bg_color=00000000&langs_count=7)
-![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=mari-arujjo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=7)
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mari-arujjo&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mari-arujjo&theme=dracula)
 
 
