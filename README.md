@@ -11,14 +11,14 @@
 ---
 
 ### 🌷 Projetos pessoais
-- [WEB API Ordem De Serviço](https://github.com/mari-arujjo/API-Ordem-De-Servico)  
-  _Descrição: Desenvolvimento de uma API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
+- 🔗 [API Ordem De Serviço (em desenvolvimento)](https://github.com/mari-arujjo/API-Ordem-De-Servico)  
+  Web API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
 
-- [Ordem De Serviço Piloto](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
-  _Descrição: escreva aqui a descrição do projeto..._
+- 🔗 [Ordem De Serviço Piloto (em desenvolvimento)](https://github.com/mari-arujjo/Ordem-De-Servico-Piloto)  
+  Projeto para aprimorar práticas em Flutter, incluindo gerenciamento de ordens de serviço e integração com a Web API citada acima.
 
-- [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba)  
-  _Descrição: O jogo Bê A Bá foi desenvolvido com o intuito de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
+- 🔗 [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba)  
+  Jogo desenvolvido no **GameMaker Studio 2** utilizando **GML (GameMaker Language)**, com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
 
 ---
 
