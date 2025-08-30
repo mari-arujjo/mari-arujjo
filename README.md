@@ -18,7 +18,7 @@
 ### 🌷 Projetos pessoais
 
 [![🔗 OrdemPro API](https://img.shields.io/badge/🔗-Ordem_Pro_Api-FFB7C5?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro-API)  
-  Web API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
+  Web API com funcionalidades CRUD completas, autenticação e controle de usuários, utilizando ASP.NET Core, Entity Framework, Identity Framework + JWT e integração com PostgreSQL. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional, em desenvolvimento.
 
 [![🔗 OrdemPro](https://img.shields.io/badge/🔗-Ordem_Pro-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro)  
   Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “OrdemProAPI”. Projeto pessoal em desenvolvimento.
