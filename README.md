@@ -10,6 +10,11 @@
 
 ---
 
+### 🌷 Projetos pessoais
+blblqaaa
+
+---
+
 ### 💌 Fale comigo!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-99FF99?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Gmail-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
@@ -18,5 +23,4 @@
 
 ### 📊 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical)
-![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical&hide=stars)
 
