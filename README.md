@@ -18,12 +18,10 @@
 ### 🌷 Projetos pessoais
 
 [![🔗 OrdemPro API](https://img.shields.io/badge/🔗-Ordem_Pro_Api-FFB7C5?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro-API)  
-  (EM DESENVOLVIMENTO) 
-  - Web API com funcionalidades CRUD completas, autenticação e controle de usuários. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
+  - (EM DESENVOLVIMENTO)  Web API com funcionalidades CRUD completas, autenticação e controle de usuários. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
 
 [![🔗 OrdemPro](https://img.shields.io/badge/🔗-Ordem_Pro-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro)  
-  (EM DESENVOLVIMENTO) 
-  - Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “OrdemProAPI”.
+  - (EM DESENVOLVIMENTO)  Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “OrdemProAPI”.
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
   - Aplicativo em Flutter que permite que o usuário digite um CEP e visualize sua localização diretamente no mapa. Projeto desenvolvimento na matéria "Desenvolvimento para Dispositivos Móveis", com o intuito de praticar a utilização de recursos embarcados.
