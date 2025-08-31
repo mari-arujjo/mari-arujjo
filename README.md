@@ -29,7 +29,7 @@
   - Aplicativo em Flutter que permite que o usuário digite um CEP e visualize sua localização diretamente no mapa. Projeto acadêmico.
 
 [![🔗 Be A Ba](https://img.shields.io/badge/🔗-Be_A_Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
-  - O jogo Bê A Bá foi desenvolvido no **GameMaker Studio 2** utilizando **GML (GameMaker Language)**, com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
+  - O jogo Bê A Bá foi desenvolvido com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
 
 ---
 
