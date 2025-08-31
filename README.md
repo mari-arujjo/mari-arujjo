@@ -26,7 +26,7 @@
   - Aplicativo em Flutter para aprimorar práticas de desenvolvimento, incluindo gerenciamento de ordens de serviço e integração com a Web API “OrdemProAPI”.
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
-  - Aplicativo em Flutter que permite que o usuário digite um CEP e visualize sua localização diretamente no mapa. Projeto acadêmico.
+  - Aplicativo em Flutter que permite que o usuário digite um CEP e visualize sua localização diretamente no mapa. Projeto desenvolvimento na matéria "Desenvolvimento para Dispositivos Móveis", com o intuito de praticar iOT.
 
 [![🔗 Be A Ba](https://img.shields.io/badge/🔗-Be_A_Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
   - O jogo Bê A Bá foi desenvolvido com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
