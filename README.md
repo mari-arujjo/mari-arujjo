@@ -25,10 +25,12 @@
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
-  - Aplicativo em Flutter que permite que o usuário digite um CEP e visualize sua localização diretamente no mapa. Projeto desenvolvimento na matéria "Desenvolvimento para Dispositivos Móveis", com o intuito de praticar a utilização de recursos embarcados.
+  - Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina de Dispositivos Móveis.
+  - Integração com APIs de geolocalização e implementação de features nativas do dispositivo.
 
 [![🔗 Be A Ba](https://img.shields.io/badge/🔗-Be_A_Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
-  - O jogo Bê A Bá foi desenvolvido com o objetivo de auxiliar crianças de 6 a 10 anos no processo de alfabetização de forma dinâmica, lúdica e divertida. TCC produzido em grupo de 4 pessoas.
+  - Jogo educacional para auxiliar na alfabetização de crianças, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo.
+  - Projeto com interface lúdica, atividades interativas e design focado na experiência do usuário infantil.
 
 ---
 
