@@ -1,4 +1,4 @@
-# Mariana Araújo Silva - Dev. Front-End
+# Mariana Araújo Silva - Dev. Full Stack
 
 ### ✨ Habilidades
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
