@@ -17,11 +17,13 @@
 
 ### 🌷 Projetos pessoais
 
+[![Aplicativo OrdemPro](https://img.shields.io/badge/Aplicativo_Ordem_Pro-CDA0DD?style=for-the-badge)] 
+  - (Em desenvolvimento)
+  - Aplicativo em Flutter para o gerenciamento de ordens de serviço, manutenções, clientes, fornecedores e produtos.
+  - Consome a OrdemPro API, Web API com funcionalidades CRUD completas, autenticação e controle de usuários.
+  - Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento full-stack.
 [![🔗 OrdemPro](https://img.shields.io/badge/🔗-Ordem_Pro-CDA0DD?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro)  
-  - (Em desenvolvimento)  Aplicativo em Flutter para o gerenciamento de ordens de serviço, manutenções, clientes, fornecedores e produtos.
-
 [![🔗 OrdemPro API](https://img.shields.io/badge/🔗-Ordem_Pro_Api-FFB7C5?style=for-the-badge)](https://github.com/mari-arujjo/OrdemPro-API)  
-  - (Em desenvolvimento)  Web API com funcionalidades CRUD completas, autenticação e controle de usuários. Projeto pessoal com foco no aprimoramento de habilidades em desenvolvimento back-end e modelagem de banco de dados relacional.
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
