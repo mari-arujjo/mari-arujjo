@@ -18,10 +18,10 @@
 ### 🌷 Projetos pessoais
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
-Aplicativo móvel desenvolvido para auxiliar professores da rede pública estadual e municipal no processo de letramento de alunos surdos na Língua Portuguesa. É um sistema full stack voltado para educação inclusiva, proporcionando ferramentas para que professores obtenham formação adequada para o ensino especial.
+Sistema full stack voltado para educação inclusiva, com o objetivo de auxiliar professores da rede pública estadual e municipal no processo de letramento de alunos surdos na Língua Portuguesa. 
 - **Frontend:** [CAS Natal - APP](https://github.com/mari-arujjo/APP-CAS-Natal) (Flutter)  
-- **Backend:** [CAS Natal - API](https://github.com/mari-arujjo/CAS-Natal-Api) (ASP.NET Core + PostgreSQL)   
-
+- **Backend:** [CAS Natal - API](https://github.com/mari-arujjo/CAS-Natal-Api) (ASP.NET Core + PostgreSQL)
+Uma parceria CAS Natal-RN + IFRN
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
