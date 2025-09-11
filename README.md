@@ -18,18 +18,17 @@
 ### 🌷 Projetos pessoais
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
-Sistema full stack voltado para educação inclusiva, com o objetivo de auxiliar professores da rede pública estadual e municipal no processo de letramento de alunos surdos na Língua Portuguesa. Uma parceria CAS Natal-RN + IFRN
-
+Sistema full stack voltado para educação inclusiva, com o objetivo de auxiliar professores da rede pública estadual e municipal no processo de letramento de alunos surdos na Língua Portuguesa. Uma parceria CAS Natal-RN + IFRN.
 - **Frontend:** [CAS Natal - APP](https://github.com/mari-arujjo/APP-CAS-Natal) (Flutter)  
 - **Backend:** [CAS Natal - API](https://github.com/mari-arujjo/CAS-Natal-Api) (ASP.NET Core + PostgreSQL)
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
-  - Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina de Dispositivos Móveis.
+Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina de Dispositivos Móveis.
   - Integração com APIs de geolocalização e implementação de features nativas do dispositivo.
 
 [![🔗 Be A Ba](https://img.shields.io/badge/🔗-Be_A_Ba-87CEEB?style=for-the-badge)](https://github.com/mari-arujjo/Be-A-Ba)  
-  - Jogo educacional para auxiliar na alfabetização de crianças, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo.
+Jogo educacional para auxiliar na alfabetização de crianças, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo.
   - Projeto com interface lúdica, atividades interativas e design focado na experiência do usuário infantil.
 
 ---
