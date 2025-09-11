@@ -17,7 +17,7 @@
 
 ### 🌷 Projetos pessoais
 
-![CASNatal](https://img.shields.io/badge/CAS_Natal-Full_Stack-FFB7C5?style=for-the-badge)  
+![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 Sistema full stack para gerenciamento de ordens de serviço, manutenções, clientes e fornecedores.  
 
 - **Frontend:** [CAS Natal App](https://github.com/mari-arujjo/APP-CAS-Natal) (Flutter)  
