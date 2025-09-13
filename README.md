@@ -21,7 +21,7 @@
 Sistema full stack voltado para educação inclusiva, com o objetivo de auxiliar professores da rede pública estadual e municipal no processo de letramento de alunos surdos na Língua Portuguesa. Uma parceria CAS Natal-RN + IFRN.
 - **Frontend:** [CAS Natal - APP](https://github.com/mari-arujjo/APP-CAS-Natal) (Flutter)  
 - **Backend:** [CAS Natal - API](https://github.com/mari-arujjo/CAS-Natal-Api) (ASP.NET Core + PostgreSQL)
-- **APP ADMIN:** [CAS Natal - APP ADMIN](https://github.com/mari-arujjo/CAS-Natal-AppADMIN) (Flutter)  
+- **APP ADMIN:** [CAS Natal - APP Admin](https://github.com/mari-arujjo/CAS-Natal-App-Admin) (Flutter)  
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
