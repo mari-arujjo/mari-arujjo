@@ -34,13 +34,10 @@ API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identi
 - Integração com **PostgreSQL** como banco de dados.  
 
 #### 🛠️ APP ADMIN (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
-
 Aplicativo exclusivo para **administradores**:  
 - Cadastro e gerenciamento de **cursos, aulas e glossários**.  
 - Interface voltada para gestão do sistema.  
 - Consome diretamente os serviços da API (CRUD).  
-
----
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
