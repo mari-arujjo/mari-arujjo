@@ -1,6 +1,6 @@
 # Mariana Araújo Silva - Dev. Full Stack
 
-### ✨ Habilidades
+## ✨ Habilidades
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
 ![HTML](https://img.shields.io/badge/HTML-A8E6CF?style=for-the-badge&logo=html5&logoColor=4B0082)
@@ -18,31 +18,22 @@
 ## 🌷 Projetos Pessoais  
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
-
 O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  
 Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
 
----
-
 ### 📱 Frontend — APP (Flutter)  
 🔗 [Repositório](https://github.com/mari-arujjo/APP-CAS-Natal)  
-
 Aplicativo principal, voltado para **alunos e professores**:  
 - Acesso a **cursos**, **aulas** e **glossário**.  
 - Personalização da experiência do usuário.  
 - Interface amigável, responsiva e inclusiva.  
 
----
-
 ### ⚙️ Backend — API (ASP.NET Core + PostgreSQL)  
 🔗 [Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
-
 API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identity**:  
 - **CRUD completo** para todas as entidades do sistema.  
 - Autenticação e gerenciamento de usuários.  
 - Integração com **PostgreSQL** como banco de dados.  
-
----
 
 ### 🛠️ APP ADMIN (Flutter)  
 🔗 [Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
