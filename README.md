@@ -1,6 +1,6 @@
 # Mariana Araújo Silva - Dev. Full Stack
 
-## ✨ Habilidades
+### ✨ Habilidades
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
 ![HTML](https://img.shields.io/badge/HTML-A8E6CF?style=for-the-badge&logo=html5&logoColor=4B0082)
@@ -15,11 +15,11 @@
 
 ---
 
-## 🌷 Projetos Pessoais  
+### 🌷 Projetos Pessoais  
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
-O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  
-Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
+
+O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
 
 ### 📱 Frontend — APP (Flutter)  
 🔗 [Repositório](https://github.com/mari-arujjo/APP-CAS-Natal)  
