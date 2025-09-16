@@ -15,13 +15,44 @@
 
 ---
 
-### 🌷 Projetos pessoais
+## 🌷 Projetos Pessoais  
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
-Sistema full stack voltado para educação inclusiva, com o objetivo de auxiliar professores da rede pública estadual e municipal no processo de letramento de alunos surdos na Língua Portuguesa. Uma parceria CAS Natal-RN + IFRN.
-- **Frontend:** [CAS Natal-RN / APP](https://github.com/mari-arujjo/APP-CAS-Natal) (Flutter)  
-- **Backend:** [CAS Natal-RN / API](https://github.com/mari-arujjo/CAS-Natal-Api) (ASP.NET Core + PostgreSQL)
-- **APP ADMIN:** [CAS Natal-RN / APP Admin](https://github.com/mari-arujjo/CAS-Natal-App-Admin) (Flutter)  
+
+O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  
+Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
+
+---
+
+### 📱 Frontend — APP (Flutter)  
+🔗 [Repositório](https://github.com/mari-arujjo/APP-CAS-Natal)  
+
+Aplicativo principal, voltado para **alunos e professores**:  
+- Acesso a **cursos**, **aulas** e **glossário**.  
+- Personalização da experiência do usuário.  
+- Interface amigável, responsiva e inclusiva.  
+
+---
+
+### ⚙️ Backend — API (ASP.NET Core + PostgreSQL)  
+🔗 [Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
+
+API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identity**:  
+- **CRUD completo** para todas as entidades do sistema.  
+- Autenticação e gerenciamento de usuários.  
+- Integração com **PostgreSQL** como banco de dados.  
+
+---
+
+### 🛠️ APP ADMIN (Flutter)  
+🔗 [Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
+
+Aplicativo exclusivo para **administradores**:  
+- Cadastro e gerenciamento de **cursos, aulas e glossários**.  
+- Interface voltada para gestão do sistema.  
+- Consome diretamente os serviços da API (CRUD).  
+
+---
 
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
