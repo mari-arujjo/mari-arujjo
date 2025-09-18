@@ -11,7 +11,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=4B0082)
 
----
+
 
 ## 🌷 Projetos Pessoais e Acadêmicos
 
@@ -40,13 +40,11 @@ Aplicativo para consulta de CEP e visualização de coordenadas em mapa interati
 Jogo educacional para auxiliar na alfabetização de crianças, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo.
   - Projeto com interface lúdica, atividades interativas e design focado na experiência do usuário infantil.
 
----
 
 ## 💌 Fale comigo!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
----
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=7)
