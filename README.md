@@ -18,6 +18,7 @@
 ## 🌷 Projetos Pessoais e Acadêmicos
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
+
 O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
 #### 📱 Frontend — APP (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
 Aplicativo principal, voltado para **alunos e professores**, permitindo acesso a **cursos**, **aulas** e **glossário**.
