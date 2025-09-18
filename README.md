@@ -1,12 +1,12 @@
 # Mariana Araújo Silva - Dev. Full Stack
 
-## 💌 Fale comigo!
+### 💌 Fale comigo!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
+---
 
-
-## ✨ Habilidades
+### ✨ Habilidades
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
 ![HTML](https://img.shields.io/badge/HTML-A8E6CF?style=for-the-badge&logo=html5&logoColor=4B0082)
@@ -19,9 +19,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=4B0082)
 
+---
 
-
-## 🌷 Projetos Pessoais e Acadêmicos
+### 🌷 Projetos Pessoais e Acadêmicos
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 
@@ -36,7 +36,8 @@ API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identi
 Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**.  
 - Consome diretamente os serviços da API (CRUD).
   
-<!-----
+---
+<!--
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
 
 Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina de Dispositivos Móveis.
