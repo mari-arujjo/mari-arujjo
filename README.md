@@ -22,21 +22,15 @@
 O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
 
 #### 📱 Frontend — APP (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
-Aplicativo principal, voltado para **alunos e professores**:  
-- Acesso a **cursos**, **aulas** e **glossário**.  
-- Personalização da experiência do usuário.  
-- Interface amigável, responsiva e inclusiva.  
+Aplicativo principal, voltado para **alunos e professores**, permitindo acesso a **cursos**, **aulas** e **glossário**.
+- Personalização da experiência do usuário, interface amigável, responsiva e inclusiva.  
 
 #### ⚙️ Backend — API (ASP.NET Core + PostgreSQL) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
-API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identity**:  
-- **CRUD completo** para todas as entidades do sistema.  
-- Autenticação e gerenciamento de usuários.  
+API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identity**. Possui **CRUD completo** para todas as entidades do sistema, autenticação e gerenciamento de usuários.  
 - Integração com **PostgreSQL** como banco de dados.  
 
 #### 🛠️ APP ADMIN (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
-Aplicativo exclusivo para **administradores**:  
-- Cadastro e gerenciamento de **cursos, aulas e glossários**.  
-- Interface voltada para gestão do sistema.  
+Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**.  
 - Consome diretamente os serviços da API (CRUD).  
 
 
