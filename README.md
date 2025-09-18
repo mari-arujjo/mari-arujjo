@@ -34,8 +34,9 @@ API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identi
 - Integração com **PostgreSQL** como banco de dados.  
 #### 🛠️ APP ADMIN (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
 Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**.  
-- Consome diretamente os serviços da API (CRUD).  
----
+- Consome diretamente os serviços da API (CRUD).
+  
+<!-----
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
 
 Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina de Dispositivos Móveis.
@@ -45,7 +46,7 @@ Aplicativo para consulta de CEP e visualização de coordenadas em mapa interati
 
 Jogo educacional para auxiliar na alfabetização de crianças, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo.
   - Projeto com interface lúdica, atividades interativas e design focado na experiência do usuário infantil.
-
+-->
 
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
