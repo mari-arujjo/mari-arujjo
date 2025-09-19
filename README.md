@@ -16,7 +16,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-7FDBFF?style=for-the-badge&logo=flutter&logoColor=003366)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-CDA0DD?style=for-the-badge&logo=dotnet&logoColor=4B0082)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=4B0082)
+![React](https://img.shields.io/badge/React-A8E6CF?style=for-the-badge&logo=react&logoColor=4B0082)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=4B0082)
 
