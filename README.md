@@ -25,11 +25,11 @@
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
-#### Frontend — APP (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
+- #### Frontend — APP (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
 Aplicativo principal, voltado para **alunos e professores**, permitindo acesso a **cursos**, **aulas** e **glossário**. Possibilita personalização da experiência do usuário e possui uma interface amigável, responsiva e inclusiva.  
-#### Backend — API (ASP.NET Core + PostgreSQL) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
+- #### Backend — API (ASP.NET Core + PostgreSQL) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
 API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identity**. Possui **CRUD completo** para todas as entidades do sistema, autenticação e gerenciamento de usuários e faz integração com **PostgreSQL** como banco de dados.  
-#### APP ADMIN (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
+- #### APP ADMIN (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
 Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**. Consome diretamente os serviços da CRUD da API.
 
 [![🔗 Geo CEP](https://img.shields.io/badge/🔗-Geo_CEP-A8E6CF?style=for-the-badge)](https://github.com/mari-arujjo/Geo-CEP)  
