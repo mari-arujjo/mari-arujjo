@@ -24,6 +24,7 @@
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 
 (Em desenvolvimento)
+
 O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
 - **Frontend — APP (Flutter)** 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
     Aplicativo principal, voltado para **alunos e professores**, permitindo acesso a **cursos**, **aulas** e **glossário**. Possibilita personalização da experiência do usuário e possui uma interface amigável, responsiva e inclusiva.  
@@ -36,6 +37,7 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 ![E-Play](https://img.shields.io/badge/Front_End-E_PLAY-A8E6CF?style=for-the-badge)  
 
 (Em desenvolvimento)
+
 O **E-Play** é um marketplace web para compra e venda de jogos físicos usados (cartuchos, CDs e edições de colecionador), conectando vendedores e compradores em um ambiente seguro.  
 Desenvolvido em **time** como parte do Projeto Integrador I da faculdade. 🔗 [Repositório](https://github.com/ThalysRD/e-play)
 - **Front-End:** React + Next.js (SSR) *(minha área de atuação)*  
