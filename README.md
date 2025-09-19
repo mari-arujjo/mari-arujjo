@@ -34,7 +34,7 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 
 ![Geo CEP](https://img.shields.io/badge/Front_End-Geo_CEP-A8E6CF?style=for-the-badge)  
 
-Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina de Dispositivos Móveis. 
+Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina Desenvolvimento para Dispositivos Móveis. 
 - Faz integração com APIs de geolocalização e implementação de features nativas do dispositivo. 🔗[Repositório](https://github.com/mari-arujjo/Geo-CEP) 
 
 ![Be A Ba](https://img.shields.io/badge/Game_Development-Be_A_Ba-87CEEB?style=for-the-badge)
