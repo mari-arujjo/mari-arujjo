@@ -23,7 +23,6 @@
 
 ### 🌷 Projetos Pessoais e Acadêmicos
 
-
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
 - **Frontend — APP (Flutter)** 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
@@ -33,19 +32,12 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 - **APP ADMIN (Flutter)** 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
     Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**. Consome diretamente os serviços da CRUD da API.
 
-
-
-
 ![E-Play](https://img.shields.io/badge/Front_End-E_PLAY-A8E6CF?style=for-the-badge)  
 O **E-Play** é um marketplace web para compra e venda de jogos físicos usados (cartuchos, CDs e edições de colecionador), conectando vendedores e compradores em um ambiente seguro.  
-Desenvolvido em **time** como parte do Projeto Integrador I da faculdade.  
+Desenvolvido em **time** como parte do Projeto Integrador I da faculdade. 🔗 [Repositório](https://github.com/ThalysRD/e-play)
 - **Front-End:** React + Next.js (SSR) *(minha área de atuação)*  
 - **Back-End:** Node.js  
 - **Banco de Dados:** PostgreSQL  
-🔗 [Repositório](https://github.com/ThalysRD/e-play)
-
-
-
 
 ![Be A Ba](https://img.shields.io/badge/Game_Development-Be_A_Ba-87CEEB?style=for-the-badge)
 O Bê A Bá é um jogo educacional para auxiliar na alfabetização de crianças de 6 a 10 anos, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo. 
