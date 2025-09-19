@@ -31,7 +31,7 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 - **Backend — API (ASP.NET Core + PostgreSQL)** 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
     API desenvolvida em **ASP.NET Core**, utilizando **Entity Framework** e **Identity**. Possui **CRUD completo** para todas as entidades do sistema, autenticação e gerenciamento de usuários e faz integração com **PostgreSQL** como banco de dados.  
 - **APP ADMIN (Flutter)** 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
-    Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**. Consome diretamente os serviços da CRUD da API.
+    Aplicativo exclusivo para **administradores**, voltado para o cadastro e gerenciamento de **cursos, aulas e glossários**. Consome diretamente os serviços da CRUD da API.
 ---
   
 ![E-Play](https://img.shields.io/badge/Front_End-E_PLAY-A8E6CF?style=for-the-badge)  
