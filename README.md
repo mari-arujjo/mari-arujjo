@@ -32,10 +32,18 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 - #### APP ADMIN (Flutter) 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
     Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**. Consome diretamente os serviços da CRUD da API.
 
+
+![E-Play](https://img.shields.io/badge/Front_End-E_PLAY-A8E6CF?style=for-the-badge)  
+
+Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina Desenvolvimento para Dispositivos Móveis. 
+- Faz integração com APIs de geolocalização e implementação de features nativas do dispositivo. 🔗[Repositório](https://github.com/ThalysRD/e-play) 
+
+
 ![Geo CEP](https://img.shields.io/badge/Front_End-Geo_CEP-A8E6CF?style=for-the-badge)  
 
 Aplicativo para consulta de CEP e visualização de coordenadas em mapa interativo, desenvolvido para a disciplina Desenvolvimento para Dispositivos Móveis. 
 - Faz integração com APIs de geolocalização e implementação de features nativas do dispositivo. 🔗[Repositório](https://github.com/mari-arujjo/Geo-CEP) 
+
 
 ![Be A Ba](https://img.shields.io/badge/Game_Development-Be_A_Ba-87CEEB?style=for-the-badge)
 
