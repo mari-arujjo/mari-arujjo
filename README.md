@@ -36,7 +36,7 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 - **APP ADMIN (Flutter)** 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-App-Admin)  
     Aplicativo exclusivo para **administradores**, voltado pata o cadastro e gerenciamento de **cursos, aulas e glossários**. Consome diretamente os serviços da CRUD da API.
 
-
+***
 
 ![E-Play](https://img.shields.io/badge/Front_End-E_PLAY-A8E6CF?style=for-the-badge)  
 
@@ -45,7 +45,7 @@ Desenvolvido em **time** como parte do Projeto Integrador I da faculdade. 🔗 [
 - **Front-End:** React + Next.js (SSR) *(minha área de atuação)*  
 - **Back-End:** Node.js  
 - **Banco de Dados:** PostgreSQL  
-
+***
 
 
 ![Be A Ba](https://img.shields.io/badge/Game_Development-Be_A_Ba-87CEEB?style=for-the-badge)
