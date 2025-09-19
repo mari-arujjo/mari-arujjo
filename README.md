@@ -45,7 +45,6 @@ Desenvolvido em **time** como parte do Projeto Integrador I da faculdade. 🔗 [
 
 O Bê A Bá é um jogo educacional para auxiliar na alfabetização de crianças de 6 a 10 anos, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo. 
 - Projeto com interface lúdica, atividades interativas e design focado na experiência do usuário infantil. 🔗[Repositório](https://github.com/mari-arujjo/Be-A-Ba)
-<!---
 ---
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
