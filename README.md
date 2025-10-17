@@ -37,7 +37,7 @@ O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva
 O **E-Play** é um marketplace web para compra e venda de jogos físicos usados (cartuchos, CDs e edições de colecionador), conectando vendedores e compradores em um ambiente seguro. 
 
 Desenvolvido em **time** como parte do Projeto Integrador I da faculdade. 🔗 [Repositório](https://github.com/ThalysRD/e-play)
-- **Front-End:** React + Next.js (SSR) *(minha área de atuação)*  
+- **Front-End:** React + Next.js (SSR)
 - **Back-End:** Node.js + PostgreSQL  
 
 ---
