@@ -49,6 +49,6 @@ Bê A Bá is an educational game to assist in the literacy of children aged 6 to
 ---
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=10)
 
 
