@@ -1,9 +1,9 @@
-# 💌 Fale comigo!
+# 💌 Contact me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
 
-# ✨ Habilidades
+# ✨ Skills
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
 ![HTML](https://img.shields.io/badge/HTML-A8E6CF?style=for-the-badge&logo=html5&logoColor=4B0082)
@@ -20,32 +20,32 @@
 
 
 
-# 🌷 Projetos Pessoais e Acadêmicos
+# 🌷 Personal & Academic Projects
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 
-(Em desenvolvimento)
+(In progress)
 
-O **CAS Natal** é um sistema **full stack** voltado para **educação inclusiva**, criado para auxiliar professores da rede pública estadual e municipal no processo de **letramento de alunos surdos em Língua Portuguesa**.  Projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**.  
-- **Frontend — APP (Flutter)** 🔗[Repositório](https://github.com/mari-arujjo/APP-CAS-Natal) 
-- **Backend — API (ASP.NET Core + PostgreSQL)** 🔗[Repositório](https://github.com/mari-arujjo/CAS-Natal-Api)  
+CAS Natal is a full-stack system focused on **inclusive education**, designed to assist teachers from the state and municipal public school network in the process of **teaching Portuguese literacy to deaf students**.  A project developed in partnership between **CAS Natal-RN** and **IFRN**.
+- **Frontend — APP (Flutter)** 🔗[Repository](https://github.com/mari-arujjo/APP-CAS-Natal) 
+- **Backend — API (ASP.NET Core + PostgreSQL)** 🔗[Repository](https://github.com/mari-arujjo/CAS-Natal-Api)  
 ---
   
 ![E-Play](https://img.shields.io/badge/Front_End-E_PLAY-A8E6CF?style=for-the-badge)  
 
-(Em desenvolvimento)
+(In progress)
 
-O **E-Play** é um marketplace web para compra e venda de jogos físicos usados (cartuchos, CDs e edições de colecionador), conectando vendedores e compradores em um ambiente seguro. 
+E-Play is a web marketplace for buying and selling used physical games (cartridges, CDs, and collector's editions), connecting sellers and buyers in a secure environment. 
 
-Desenvolvido em **time** como parte do Projeto Integrador I da faculdade. 🔗 [Repositório](https://github.com/ThalysRD/e-play)
+Developed as a team as part of the university's Integrating Project I. 🔗 [Repository](https://github.com/ThalysRD/e-play)
 - **Front-End:** React + Next.js (SSR)
 - **Back-End:** Node.js + PostgreSQL  
 
 ---
 ![Be A Ba](https://img.shields.io/badge/Game_Development-Be_A_Ba-87CEEB?style=for-the-badge)
 
-O Bê A Bá é um jogo educacional para auxiliar na alfabetização de crianças de 6 a 10 anos, desenvolvido como Trabalho de Conclusão de Curso (TCC) em grupo. 
-- Projeto com interface lúdica, atividades interativas e design focado na experiência do usuário infantil. 🔗[Repositório](https://github.com/mari-arujjo/Be-A-Ba)
+Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC).
+- A project with a playful interface, interactive activities, and a design focused on the child user experience. 🔗[Repository](https://github.com/mari-arujjo/Be-A-Ba)
 ---
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
