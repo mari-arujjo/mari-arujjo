@@ -1,9 +1,9 @@
-# 💌 Contact me!
+## 💌 Contact me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
 
-# ✨ Skills
+## ✨ Skills
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
 ![HTML](https://img.shields.io/badge/HTML-A8E6CF?style=for-the-badge&logo=html5&logoColor=4B0082)
@@ -20,7 +20,7 @@
 
 
 
-# 🌷 Personal & Academic Projects
+## 🌷 Personal & Academic Projects
 
 ![CASNatal](https://img.shields.io/badge/Full_Stack-CAS_Natal-FFB7C5?style=for-the-badge)  
 
