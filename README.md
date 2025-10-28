@@ -21,8 +21,8 @@
 
 | 🧩 **Project** | 🧠 **Description** | 🛠️ **Technologies** |
 |---|---|---|
-| **CAS Natal**<br> | CAS Natal is a full-stack system focused on **inclusive education**, designed to assist teachers from the state and municipal public school network in the process of **teaching Portuguese literacy to deaf students**.  A project developed in partnership between **CAS Natal-RN** and **IFRN**. *(In progress)*<br>• **Frontend:** [Repository](https://github.com/mari-arujjo/APP-CAS-Natal) <br>• **Backend:** [Repository](https://github.com/mari-arujjo/CAS-Natal-Api) | Flutter, ASP.NET Core, PostgreSQL |
-| **E-Play**<br> | E-Play is a web marketplace for buying and selling used physical games (cartridges, CDs, and collector's editions), connecting sellers and buyers in a secure environment. *(In progress)*<br> [Repository](https://github.com/ThalysRD/e-play) <br> | React, Next.js, Node.js, PostgreSQL |
+| **CAS Natal**<br> | CAS Natal is a full-stack system focused on **inclusive education**, designed to assist teachers from the state and municipal public school network in the process of **teaching Portuguese literacy to deaf students**.  A project developed in partnership between **CAS Natal-RN** and **IFRN**. <br>• **Frontend:** [Repository Frontend](https://github.com/mari-arujjo/APP-CAS-Natal) <br>• **Backend:** [Repository Backend](https://github.com/mari-arujjo/CAS-Natal-Api) | Flutter, ASP.NET Core, PostgreSQL |
+| **E-Play**<br> | E-Play is a web marketplace for buying and selling used physical games (cartridges, CDs, and collector's editions), connecting sellers and buyers in a secure environment. <br> [Repository](https://github.com/ThalysRD/e-play) <br> | React, Next.js, Node.js, PostgreSQL |
 | **Bê A Bá**<br> | Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC).<br>[Repository](https://github.com/mari-arujjo/Be-A-Ba) | GameMaker |
 
 
