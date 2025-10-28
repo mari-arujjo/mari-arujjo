@@ -19,17 +19,11 @@ Hi!!! I’m **Mariana** (you can call me **Mari**), a **Computer Technician** fr
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=4B0082)
 
-<div align="center">
 
 ### ✨ My Dev Stack
-
-<!-- 1ª linha -->
 [![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,html,css,js&perline=7)](https://skillicons.dev)
-
-<!-- 2ª linha -->
 [![icons](https://skillicons.dev/icons?i=react,python,django,postgres,figma,notion,trello&perline=7)](https://skillicons.dev)
 
-</div>
 
 ### 💫 Personal & Academic Projects
 
