@@ -3,13 +3,13 @@
 Hi!!! I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. 
 
 
-### ✨ My Dev Stack
+### 💻 My Dev Stack
 [![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,html,css,js&perline=7)](https://skillicons.dev)
 [![icons](https://skillicons.dev/icons?i=react,python,django,postgres,figma,notion,trello&perline=7)](https://skillicons.dev)
 
 
 
-### 💫 Personal & Academic Projects
+### ✨ Personal & Academic Projects
 
 | 🧩 **Project** | 🧠 **Description** | 🛠️ **Technologies** |
 |---|---|---|
