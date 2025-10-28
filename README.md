@@ -1,7 +1,9 @@
+## 🌷 About Me
+
+Hi, I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. 
 
 
-
-## ✨ Skills
+### ✨ My Dev Stack
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-CDA0DD?style=for-the-badge&logo=dotnet&logoColor=4B0082)
 ![Dart](https://img.shields.io/badge/Dart-BAA0FF?style=for-the-badge&logo=dart&logoColor=4B0082)
@@ -15,7 +17,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=4B0082)
 
 
-## 🌷 Personal & Academic Projects
+### 💫 Personal & Academic Projects
 
 | 🧩 **Project** | 🧠 **Description** | 🛠️ **Technologies** |
 |---|---|---|
@@ -24,7 +26,7 @@
 | [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba) | Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC). | GameMaker |
 
 
-## 💌 Contact me!
+### 💌 Contact me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
