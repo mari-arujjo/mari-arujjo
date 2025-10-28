@@ -1,6 +1,4 @@
-## 💌 Contact me!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
-[![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
+
 
 
 ## ✨ Skills
@@ -26,7 +24,11 @@
 | **Bê A Bá** | 📦 [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba) | Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC). | GameMaker |
 
 
+## 💌 Contact me!
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
+[![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
+---
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=10&hide=cmake,cpp,swift,kotlin,c,dockerfile,objective-c&include_all_commits=true)
 
