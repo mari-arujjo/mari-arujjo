@@ -1,6 +1,6 @@
 ### 🌷 About Me
 
-Hi!!! I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. 
+Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. 
 
 
 ### 💻 My Dev Stack
