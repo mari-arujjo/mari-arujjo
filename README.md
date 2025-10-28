@@ -47,13 +47,13 @@ Developed as a team as part of the university's Integrating Project I. 🔗 [Rep
 Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC).
 - A project with a playful interface, interactive activities, and a design focused on the child user experience. 🔗[Repository](https://github.com/mari-arujjo/Be-A-Ba)
 ---
-##🌷 Personal & Academic Projects
+## 🌷 Personal & Academic Projects
 
 | 🧩 **Project** | 🧠 **Description** | 🛠️ **Technologies** |
 |---|---|---|
-| **CAS Natal**<br> | *(In progress)*<br>CAS Natal é um sistema **full-stack** focado em **educação inclusiva**, para apoiar professores da rede pública no processo de **alfabetização em Português de alunos surdos**. Projeto em parceria entre **CAS Natal-RN** e **IFRN**.<br>• **Frontend:** [Repository](https://github.com/mari-arujjo/APP-CAS-Natal) <br>• **Backend:** [Repository](https://github.com/mari-arujjo/CAS-Natal-Api) | Flutter, ASP.NET Core, PostgreSQL |
-| **E-Play**<br> | *(In progress)*<br>Marketplace web para compra e venda de **jogos físicos usados** (cartuchos, CDs e edições de colecionador), conectando vendedores e compradores com segurança. Projeto em equipe no **Projeto Integrador I**.<br> [Repository](https://github.com/ThalysRD/e-play) <br> | React, Next.js, Node.js, PostgreSQL |
-| **Bê A Bá**<br><img alt="Be A Ba" src="https://img.shields.io/badge/Game_Development-Be_A_Ba-87CEEB?style=for-the-badge"> | Jogo educacional para apoiar a **alfabetização de crianças (6–10 anos)**, com interface lúdica, atividades interativas e foco em UX infantil. Trabalho de **TCC** em grupo. <br>[Repository](https://github.com/mari-arujjo/Be-A-Ba) | GameMaker |
+| **CAS Natal**<br> | *(In progress)*<br>CAS Natal is a full-stack system focused on **inclusive education**, designed to assist teachers from the state and municipal public school network in the process of **teaching Portuguese literacy to deaf students**.  A project developed in partnership between **CAS Natal-RN** and **IFRN**.<br>• **Frontend:** [Repository](https://github.com/mari-arujjo/APP-CAS-Natal) <br>• **Backend:** [Repository](https://github.com/mari-arujjo/CAS-Natal-Api) | Flutter, ASP.NET Core, PostgreSQL |
+| **E-Play**<br> | *(In progress)*<br>E-Play is a web marketplace for buying and selling used physical games (cartridges, CDs, and collector's editions), connecting sellers and buyers in a secure environment.<br> [Repository](https://github.com/ThalysRD/e-play) <br> | React, Next.js, Node.js, PostgreSQL |
+| **Bê A Bá**<br> | Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC).<br>[Repository](https://github.com/mari-arujjo/Be-A-Ba) | GameMaker |
 
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
