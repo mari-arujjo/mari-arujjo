@@ -4,7 +4,9 @@ Hi!!! I’m **Mariana** (you can call me **Mari**), a **Computer Technician** fr
 
 
 ### ✨ My Dev Stack
-[![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,html,css,js,react,python,django,postgres,figma,notion,trello&perline=7)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,html,css,js&perline=7)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=react,python,django,postgres,figma,notion,trello&perline=7)](https://skillicons.dev)
+
 
 
 ### 💫 Personal & Academic Projects
