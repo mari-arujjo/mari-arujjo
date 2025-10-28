@@ -1,7 +1,8 @@
 ## 🌷 About Me
 
-Hi, I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. 
+Hi!!! I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. 
 
+<br>
 
 ### ✨ My Dev Stack
 ![C#](https://img.shields.io/badge/C%23-FF8DAA?style=for-the-badge&logo=c-sharp&logoColor=4B0082)
@@ -16,6 +17,7 @@ Hi, I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from
 ![Django](https://img.shields.io/badge/Django-A8E6CF?style=for-the-badge&logo=django&logoColor=4B0082)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=4B0082)
 
+<br>
 
 ### 💫 Personal & Academic Projects
 
@@ -25,6 +27,7 @@ Hi, I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from
 | [E-play](https://github.com/ThalysRD/e-play) | E-Play is a web marketplace for buying and selling used physical games (cartridges, CDs, and collector's editions), connecting sellers and buyers in a secure environment. | React, Next.js, Node.js, PostgreSQL |
 | [Be-A-Ba](https://github.com/mari-arujjo/Be-A-Ba) | Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC). | GameMaker |
 
+<br>
 
 ### 💌 Contact me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
@@ -32,5 +35,6 @@ Hi, I’m **Mariana** (you can call me **Mari**), a **Computer Technician** from
 
 ---
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=10&hide=cmake,cpp,swift,kotlin,c,dockerfile,objective-c&include_all_commits=true)
 
