@@ -3,7 +3,7 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 
 
 ### 💻 My Dev Stack
-[![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,gamemakerstudio,html,css,js&perline=7)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,gamemakerstudio,css,js&perline=7)](https://skillicons.dev)
 [![icons](https://skillicons.dev/icons?i=react,python,django,postgres,figma,notion,trello&perline=7)](https://skillicons.dev)
 
 
