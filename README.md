@@ -16,11 +16,14 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
 [![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/5584988594714)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:araujosl.mariana@gmail.com)
+<!-- 💌 Contact me! -->
+<p>
+  <a href="https://wa.me/5584988594714" title="Chat on WhatsApp" aria-label="WhatsApp">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="36" height="36" alt="WhatsApp">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:araujosl.mariana@gmail.com" title="Send me an email" aria-label="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email">
+  </a>
+</p>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=social)](https://wa.me/5584988594714)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=social)](mailto:araujosl.mariana@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-A8E6CF?style=for-the-badge&logo=whatsapp&logoColor=006400)](https://wa.me/5584988594714)
-[![Email](https://img.shields.io/badge/Email-FF9999?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:araujosl.mariana@gmail.com)
