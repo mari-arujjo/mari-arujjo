@@ -1,5 +1,5 @@
 ### 🌷 About Me
-Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**. Contact me: araujosl.mariana@gmail.com
+Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**
 
 
 ### 📚 Tools and Technologies
