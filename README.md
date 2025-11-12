@@ -1,5 +1,5 @@
-## Hello, World!
-🎓 Technology in Internet Systems - IFRN CZL | Computer Technician - CEEPPLG
+### 🌎 Hello, World!
+Technology in Internet Systems - IFRN CZL | Computer Technician - CEEPPLG
 
 ### ✨ Tools and Technologies
 [![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,gamemakerstudio,css,js,react,python,django,postgres,figma,notion,trello&perline=50)](https://skillicons.dev)
