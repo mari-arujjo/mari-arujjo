@@ -13,5 +13,6 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 | [E-play](https://github.com/ThalysRD/e-play) | E-Play is a web marketplace for buying and selling used physical games (cartridges, CDs, and collector's editions), connecting sellers and buyers in a secure environment. | React, Next.js, Node.js, PostgreSQL |
 | [Bê A Bá](https://github.com/mari-arujjo/Be-A-Ba) | Bê A Bá is an educational game to assist in the literacy of children aged 6 to 10, developed as a group Final Course Project (TCC). | GameMaker |
 
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,c,dockerfile,objective-c&include_all_commits=true)
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
