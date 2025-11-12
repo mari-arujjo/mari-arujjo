@@ -15,14 +15,6 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 | [Bê A Bá](https://github.com/mari-arujjo/Be-A-Ba) | O Bê A Bá é um jogo educacional para auxiliar na alfabetização de crianças de 6 a 10 anos, desenvolvido como um TCC (Trabalho de Conclusão de Curso) em grupo. | GameMaker |
 
 
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,objective-c&include_all_commits=true&hide_border=true" alt="Top Langs" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula&hide_border=true" alt="Mari's GitHub stats" />
-    </td>
-  </tr>
-</table>
+### <img src="https://raw.githubusercontent.com/gist/p-k-p/2a13b03a7498c4b9d0426b6e4faafc20/raw/f2f56e6d19126a152e85a38a2e5d59bf37e7af90/stats.gif" width="25"> GitHub Stats
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,objective-c&include_all_commits=true)
