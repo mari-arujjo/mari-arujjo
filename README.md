@@ -15,6 +15,7 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 | [Bê A Bá](https://github.com/mari-arujjo/Be-A-Ba) | O Bê A Bá é um jogo educacional para auxiliar na alfabetização de crianças de 6 a 10 anos, desenvolvido como um TCC (Trabalho de Conclusão de Curso) em grupo. | GameMaker |
 
 
-### GitHub Stats
+<br>
+<br>
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=swift,kotlin,objective-c&include_all_commits=true&hide_border=true)
