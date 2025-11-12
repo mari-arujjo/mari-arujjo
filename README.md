@@ -1,10 +1,10 @@
-### 🌎 Hello, World!
+### 🌷 About Me
 Technology in Internet Systems - IFRN CZL | Computer Technician - CEEPPLG
 
-### ✨ Tools and Technologies
+### 🛠️ Tools and Technologies
 [![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,gamemakerstudio,css,js,react,python,django,postgres,figma,notion,trello&perline=50)](https://skillicons.dev)
 
-### 🌷 Projetos Pessoais & Acadêmicos
+### ✨ Projetos Pessoais & Acadêmicos
 | 🧩 **Projeto** | 🧠 **Descrição** | 🛠️ **Tecnologias** |
 |---|---|---|
 | **CAS Natal**: [APP Flutter](https://github.com/mari-arujjo/CAS-Natal-App), [API](https://github.com/mari-arujjo/CAS-Natal-Api) | O CAS Natal é um sistema full-stack focado na **educação inclusiva**, projetado para auxiliar professores da rede pública estadual e municipal no processo de **ensino da alfabetização em português para alunos surdos**. Um projeto desenvolvido em parceria entre o **CAS Natal-RN** e o **IFRN**. | Flutter, ASP.NET Core, PostgreSQL |
