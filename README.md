@@ -16,6 +16,7 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 
 
 <br>
+
 ---
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula&hide_border=true)
