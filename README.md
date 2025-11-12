@@ -19,7 +19,7 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,c,dockerfile,objective-c&include_all_commits=true" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,objective-c&include_all_commits=true" alt="Top Langs" />
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula" alt="Mari's GitHub stats" />
