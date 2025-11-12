@@ -1,5 +1,6 @@
-# Hello, World! 🌎
-I’m **Mariana**, a **Computer Technician** from **Brazil** currently in my **3rd semester of Internet Systems Technology**
+# Hello, World!
+🎓 Technology in Internet Systems - IFRN CZL
+🎓 Computer Technician - CEEPPLG
 
 
 ### ✨ Tools and Technologies
