@@ -4,9 +4,6 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 
 ### 📚 Things I’m Currently Studying
 [![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,gamemakerstudio,css,js,react,python,django,postgres,figma,notion,trello&perline=50)](https://skillicons.dev)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,c,dockerfile,objective-c&include_all_commits=true)
-
 
 
 ### ✨ Personal & Academic Projects
@@ -19,3 +16,4 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 <br>
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=radical&langs_count=10&hide=cmake,C%2B%2B,swift,kotlin,c,dockerfile,objective-c&include_all_commits=true)
