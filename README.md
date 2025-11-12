@@ -16,5 +16,5 @@ Hi!!! I’m **Mariana**, a **Computer Technician** from **Brazil** currently in 
 
 
 ### GitHub Stats
-![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=swift,kotlin,objective-c&include_all_commits=true&hide_border=true&bg_color=00000000)
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=swift,kotlin,objective-c&include_all_commits=true&hide_border=true)
