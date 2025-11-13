@@ -17,4 +17,6 @@ Technology in Internet Systems - IFRN CZL | Computer Technician - CEEPPLG
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula&langs_count=10&hide=swift,kotlin,objective-c&include_all_commits=true&hide_border=true)
 
+
 <img src="https://raw.githubusercontent.com/mari-arujjo/mari-arujjo/output/snake.svg" alt="Snake animation" />
+###
