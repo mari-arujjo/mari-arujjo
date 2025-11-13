@@ -4,6 +4,10 @@ Technology in Internet Systems - IFRN CZL | Computer Technician - CEEPPLG
 ### 🛠️ Tools and Technologies
 [![icons](https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,gamemakerstudio,css,js,react,python,django,postgres,figma,notion,trello&perline=50)](https://skillicons.dev)
 
+<div align="right">
+  <img height="200" src="https://media.tenor.com/D8IYs3OLCfkAAAAi/soy-nerd.gif"  />
+</div>
+
 ### ✨ Personal & Academic Projects
 | **Project** | **Description** | **Technologies** |
 |---|---|---|
