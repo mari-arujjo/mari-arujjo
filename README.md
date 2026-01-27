@@ -14,9 +14,5 @@ Technology in Internet Systems - IFRN CZL | Computer Technician - CEEPPLG
 <div align="center">
 
 ![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-arujjo&show_icons=true&theme=dracula)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-arujjo&layout=compact&theme=dracula)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mari-arujjo&theme=dracula)
 
 </div>
